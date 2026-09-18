@@ -11,7 +11,7 @@ Roblox Account Creator is a Python program that automates the process of creatin
   
 2. Open the Roblox Account Creator program using the following command:
 ```
-git clone https://github.com/NSTIOM/Roblox-Account-Creator.git
+git clone https://github.com/Scre3my/Roblox-Account-Creator.git
 ```
 
 
